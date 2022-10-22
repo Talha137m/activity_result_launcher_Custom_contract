@@ -66,4 +66,6 @@ class SecondActivityContract extends ActivityResultContract<String, String> {
         assert result != null;
         return result.getData().toString();
     }
+    ///ajcbjkasbjkasjkasjkcjkashjkasjkasjk
+    //asjkcklasl
 }
